@@ -15,5 +15,4 @@ Etapes :
 
 ------
 
-Ceci est un extrait, et non l'entièreté du projet.
-Les données sont confidentiels
+Ceci est un extrait, et non l'entièreté du projet. 
