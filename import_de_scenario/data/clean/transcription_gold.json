@@ -1,0 +1,1975 @@
+{
+  "scenes": [
+    {
+      "scene_number": "1804/01",
+      "scene_desc": "EXT JOUR. ABORDS APPART LUCAS : A1"
+    },
+    {
+      "scene_number": "1804/02",
+      "scene_desc": "INT JOUR. ATELIER SYBILLE VFX : studio A2"
+    },
+    {
+      "scene_number": "1804/03",
+      "scene_desc": "INT JOUR. TRAM LED : studio A3"
+    },
+    {
+      "scene_number": "1804/04",
+      "scene_desc": "INT JOUR. LYCÉE Casiers : studio B1"
+    },
+    {
+      "scene_number": "1804/05",
+      "scene_desc": "INT JOUR. LYCÉE Salle de classe : studio B2"
+    },
+    {
+      "scene_number": "1804/06",
+      "scene_desc": "INT JOUR. LYCÉE Couloir : vignette B3"
+    },
+    {
+      "scene_number": "1804/07",
+      "scene_desc": "INT JOUR. GALERIE ALIX : A5"
+    },
+    {
+      "scene_number": "1804/08",
+      "scene_desc": "INT JOUR. LYCÉE Toilettes :"
+    },
+    {
+      "scene_number": "1804/09",
+      "scene_desc": "EXT JOUR. LYCÉE Escaliers :"
+    },
+    {
+      "scene_number": "1804/10",
+      "scene_desc": "EXT JOUR. MAGASIN BATEAUX : A6"
+    },
+    {
+      "scene_number": "1804/11",
+      "scene_desc": "INT JOUR. TRAM VFX LED : studio B6"
+    },
+    {
+      "scene_number": "1804/12",
+      "scene_desc": "EXT JOUR. MAGASIN BATEAUX : A7"
+    },
+    {
+      "scene_number": "1804/13",
+      "scene_desc": "EXT JOUR. MAISON SABINE Jardin : B7"
+    },
+    {
+      "scene_number": "1804/14",
+      "scene_desc": "INT JOUR. L. COSMÉTIQUES Hangar : vignette Anew"
+    },
+    {
+      "scene_number": "1804/15",
+      "scene_desc": "INT SOIR. PAVILLON GUÉRIN : B8"
+    },
+    {
+      "scene_number": "1804/16",
+      "scene_desc": "INT SOIR. L. COSMÉTIQUES Bureau Bertier : studio A8"
+    }
+  ],
+  "repliques": [
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Tu t'occupes des courses pour ce soir alors ?"
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Oui..."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Qu'est-ce qui se passe ?"
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "C'est Sybille."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Elle veut nous voir avec Dimitri."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Quand ?"
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Maintenant."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Elle va encore te demander de récupérer des contrefaçons..."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Je t'ai dit, elle va pas nous lâcher."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Je bosse à L. Cosmétiques, c'est idéal pour son trafic."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "À part la balancer aux flics, je vois pas d'autre solution."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "On en a parlé Lucas, c'est pas possible."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Tu t'es servi de la boîte dans laquelle tu bosses pour faire rentrer des contrefaçons..."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Techniquement c'est Sybille qui s'est servie de L. Cosmétiques."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Mais toi et Dimitri vous avez récupéré sa marchandise !"
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Elle vous a payé pour ça, pour les flics vous êtes complices !"
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Je sais..."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Et je te rappelle que t'as un casier depuis l'histoire avec Alix Dardel."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "C'est surtout pour Dimitri que c'est chaud."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Lui, il est sûr de se retrouver en prison à cause des conneries qu'il a faites avant."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Il y a sûrement un moyen pour qu'elle vous foute la paix."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Non ?"
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Oui, sûrement."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Il faut juste trouver la faille dans son plan de merde."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Là c'est elle qui vous coince."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Il faut trouver comment la coincer elle."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Pour qu'elle puisse plus vous demander de bosser pour elle."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Exactement."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "En attendant, on va voir ce qu'elle a à nous dire..."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Tu me tiens au courant."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Ouais, je t'appelle."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "EMMA",
+      "line": "Fais attention à toi hein."
+    },
+    {
+      "scene_index": "1804/01",
+      "speaker": "LUCAS",
+      "line": "Promis."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Ça va, Lucas ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "T'as l'air en forme."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Pourquoi vous vouliez nous voir ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Une nouvelle cargaison de marchandises va arriver à L. Cosmétiques dans trois jours."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Cette fois, vous allez devoir récupérer mille pièces d'un coup."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Oui, c'est beaucoup."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Mais tous les articles seront dans des cartons spécifiques."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Vous n'aurez pas à ouvrir les cartons un par un pour récupérer les pièces comme les autres fois."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Ça représente combien de cartons ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Une vingtaine environ ."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "C'est beaucoup trop d'un coup, on va se faire griller."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Mon contact chez le transporteur m'a confirmé que L. Cosmétiques allait recevoir plusieurs palettes ce jour-là."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Rassure-toi, la commande sera noyée dans la masse."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Sauf qu'on va devoir traiter la commande dès sa réception."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "La livraison s'effectuera en fin de journée, l'équipe logistique n'aura pas le temps de la traiter."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Vous récupérerez la marchandise pendant la nuit quand tout le monde sera parti, comme la dernière fois."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "DIMITRI",
+      "line": "Ça paraît jouable."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Non, c'est n'importe quoi."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Mon boss va griller tout de suite que L. Cosmétiques n'est pas à l'origine de cette commande."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "C'est pour ça qu'elle doit apparaître comme une commande officielle de L. Cosmétiques."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Et c'est toi qui vas t'en charger."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Quoi ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Et je fais ça comment moi ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Tu n'auras qu'à t'introduire dans le bureau de la compte et passer la commande."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Au nom de L. Cosmétiques ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Vous êtes malade !"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Rassure-toi, ils n'auront rien à payer."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Une fois que tu auras passé la commande, j'effectuerai immédiatement le virement depuis notre compte offshore."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Il y a aucune chance pour que ça marche."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "C'est pas possible."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Bien sûr que ça va marcher, j'ai pensé à tout."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Vous pensez, mais nous, on prend tous les risques."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Surtout moi."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "Je bosse là-bas putain !"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Tu m'as même pas laissé le temps d'annoncer la bonne nouvelle : après ça, je vous foutrai une paix royale à tous les deux."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "LUCAS",
+      "line": "C'est ça..."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Je t'assure."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Je mettrai plus d'un an à écouler toute la marchandise."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "DIMITRI",
+      "line": "Mais tu vas nous demander de la vendre."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Pour ça, j'aurais aucun mal à vous remplacer..."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Mais pour ce qui est de passer la commande et de la récupérer, vous êtes les seuls à pouvoir le faire."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "DIMITRI",
+      "line": "C'est payé combien ?"
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Dix mille."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Chacun."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "Ça, c'est les produits à commander auprès de notre fournisseur chinois."
+    },
+    {
+      "scene_index": "1804/02",
+      "speaker": "SYBILLE DELORME",
+      "line": "T'as ses coordonnées en bas de la liste."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "Tu flippes ?"
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "LUCAS",
+      "line": "À ton avis ?"
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "LUCAS",
+      "line": "Je risque de perdre mon job et d'aller en taule."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "LUCAS",
+      "line": "Mais si je fais pas ce qu'elle demande elle va s'en prendre à Emma."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "LUCAS",
+      "line": "Donc j'ai pas le choix."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "Il faut se dire que c'est le dernier coup."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "Après ça, on sera tranquille."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "Hein ?"
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "LUCAS",
+      "line": "Quoi ?"
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "Tu as entendu Sybille ?"
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "C'est la dernière fois."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "DIMITRI",
+      "line": "Après, elle nous foutra la paix."
+    },
+    {
+      "scene_index": "1804/03",
+      "speaker": "LUCAS",
+      "line": "Parce que tu crois que ce genre de meuf a une parole, toi ?"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ACHILLE",
+      "line": "Le problème, c'est pas la défense."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ACHILLE",
+      "line": "C'est le milieu de terrain."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ACHILLE",
+      "line": "Il y a personne pour porter le ballon."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ALEXIS",
+      "line": "Mais carrément, je suis sûr que même moi je ferai mieux."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "NOURA",
+      "line": "Sérieux, vous en avez pas marre de parler foot ?"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ACHILLE",
+      "line": "Tu préfères qu'on parle shopping ?"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "CHARLOTTE",
+      "line": "La pauvre remarque sexiste à deux balles."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "NOURA",
+      "line": "En vrai vu votre style, ça pourrait vous rendre service."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Les gars, vous savez quoi ?"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Mon père et ma belle-mère vont à un concert à Avignon cette semaine."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ALEXIS",
+      "line": "Pourquoi ils vont aussi loin pour un concert ?"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Mon père, c'est un passionné de jazz."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Il veut absolument voir Alessandro chez-pas-qui, apparemment grosse star, que personne connaît à part lui."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Non, mais attends, ils restent bouffer là-bas après, donc j'ai la baraque jusqu'à deux du mat au moins."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "CHARLOTTE",
+      "line": "Et ça veut dire... grosse soirée pour nous !"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "T'as pigé !"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ACHILLE",
+      "line": "Moi, c'est mort, ma mère me donnera jamais l'autorisation d'aller à une teuf en pleine semaine."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ALEXIS",
+      "line": "C'est sûr que si tu lui dis que tu vas à une teuf, c'est plié."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ALEXIS",
+      "line": "Faut que tu utilises des éléments de langage pour faire diversion."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "CHARLOTTE",
+      "line": "Genre tu vas pas à une teuf, mais à un « dîner entre potes »."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ALEXIS",
+      "line": "Et tu demandes pas la permission de rentrer tard, mais tu lui dis que tu la préviens quand tu pars..."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Rassurez-moi, les mecs, on va quand même faire la teuf."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "PABLO",
+      "line": "Vous venez pas juste pour jouer au tarot ?"
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "CHARLOTTE",
+      "line": "C'est pas le projet, non."
+    },
+    {
+      "scene_index": "1804/04",
+      "speaker": "ALEXIS",
+      "line": "Ça va être mortel !"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "ACHILLE",
+      "line": "Sérieux, tu trouves que je suis mal fringué ?"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "NOURA",
+      "line": "Laisse tomber, je fais pas dans le social."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "Allez, on s'assied..."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "En silence..."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "S'il vous plaît, un peu de calme..."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "Je compte sur vous pour bien l'accueillir."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "PABLO",
+      "line": "Ça dépend, c'est payé combien ?"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "Vu que tu étais nouveau toi aussi il y a pas si longtemps, Pablo,"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "Tu veux dire un mot à tes camarades ?"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SALOMÉ",
+      "line": "Je suis obligée ?"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "T'es obligée de rien..."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "Mais c'est mieux si tu veux qu'on apprenne"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SALOMÉ",
+      "line": "Ben je m'appelle Salomé, je viens de Marseille, et si on m'avait demandé mon avis, je serai restée là-bas."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "C'est tout ?"
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "SABINE",
+      "line": "Tu peux aller t'asseoir."
+    },
+    {
+      "scene_index": "1804/05",
+      "speaker": "ALEXIS",
+      "line": "T'as une place ici, si tu veux."
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "NOURA",
+      "line": "Pourquoi tu m'en as pas parlé avant ?"
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "PABLO",
+      "line": "Je sais pas, j'y ai pas pensé..."
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "NOURA",
+      "line": "Sérieux Pablo, je suis ta meuf."
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "NOURA",
+      "line": "Je suis obligée de l'apprendre en même temps que tout le monde comme une conne ?"
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "PABLO",
+      "line": "Désolé."
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "PABLO",
+      "line": "En fait l'idée de la soirée, ça m'est venu comme ça."
+    },
+    {
+      "scene_index": "1804/06",
+      "speaker": "NOURA",
+      "line": "T'as toujours une excuse."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Tu es même pas sûre que ce Richard Conte soit lié à la revente de contrefaçons."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Non, mais je sais qu'il connaît la femme pour qui Lucas récupère les marchandises."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Ça prouve rien, ça."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Je sais aussi qu'il a failli être condamné pour escroquerie."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Et alors ?"
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Alors, il y a pas de fumée sans feu."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Je suis bien placée pour le savoir."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "OK, admettons que type trempe dans ce business."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Comment tu comptes le prouver ?"
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Ce genre de mecs, ça prend ses précautions."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Mais ce genre de mecs comme tu dis, ça a toujours des failles..."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Et je compte bien les exploiter."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Et ensuite, tu feras quoi ?"
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Une fois que j'aurais la preuve qu'il est mouillé."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Je l'utiliserai comme moyen de pression pour qu'il foute la paix à Lucas."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Comme moyen de pression, carrément ?"
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Alix..."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Tu vas t'attirer des problèmes."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Mais non, je ferai attention."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "C'est mignon, ta façon de t'inquiéter pour moi."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ULYSSE",
+      "line": "Je déconne pas."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Moi non plus."
+    },
+    {
+      "scene_index": "1804/07",
+      "speaker": "ALIX",
+      "line": "Allez, pas de bêtise pendant mon absence."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "On se voit quand pour l'exposé de français."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Faudrait qu'on s'y mette quand même."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Je sais pas..."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "En vrai ça me soûle."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Il me déprime, ce livre."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "C'est vrai ?"
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Moi je trouve ça intéressant l'idée du désir qui te bouffe si tu le contrôles pas."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Ouais ben moi, les mecs qui veulent tout et qui donnent rien, je connais."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Pas besoin de Balzac"
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Vous vous êtes embrouillés avec Pablo ?"
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Je vous ai vu vous prendre la tête à la pause."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Il veut faire une soirée et il me prévient pas avant vous."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "C'est soûlant."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Ça aurait changé quoi qu'il t'en parle avant ?"
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Je suis sûre que Pablo a pas fait exprès."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "C'est ça, le truc, il fait jamais gaffe à moi."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Et puis pour une fois qu'on avait la maison de ses parents, on aurait pu en profiter pour passer la soirée en amoureux..."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Et ben non, il peut pas s'empêcher de ramener tous les potes."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Dis tout de suite qu'on te saoule."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "C'est pas ça..."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "C'est juste qu'on fait jamais rien tous les deux seuls."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Faut toujours qu'on se voie en groupe."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Je comprends que tu aies envie de le voir en solo..."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Mais c'est un mec."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Sans ses potes, il est perdu."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Ou alors il a plus envie de passer du temps rien qu'avec moi."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "CHARLOTTE",
+      "line": "Arrête..."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Non mais je t'assure."
+    },
+    {
+      "scene_index": "1804/08",
+      "speaker": "NOURA",
+      "line": "Si ça se trouve on est sur la fin..."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "Moi, ce que je trouve nul dans ce film, c'est la fin."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "Le faux twist à deux balles, genre le perso principal c'est un fantôme..."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "Ben moi j'ai trouvé ça ouf, justement."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "Arrête."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "C'était grillé dès le début."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "T'avais capté, toi, que Bruce Willis était mort ?"
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "Le gosse le dit dès le début du film ! « Je vois des morts »."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "À partir de là, c'est plié."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "Ben moi la fin, ça m'a séché..."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "Je trouve ça cool de mater des vieux films de temps en temps."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "On devrait peut-être aller lui parler..."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "Sans moi."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "Elle a l'air à l'air trop chiante."
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ACHILLE",
+      "line": "Ça craint de la laisser toute seule pour son premier jour, non ?"
+    },
+    {
+      "scene_index": "1804/09",
+      "speaker": "ALEXIS",
+      "line": "Tant pis pour elle, elle avait qu'à faire un effort..."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Vous êtes sûre qu'ils vont pas se défiler ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "SYBILLE DELORME",
+      "line": "Certaine."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "SYBILLE DELORME",
+      "line": "Lucas et Dimitri ont bien compris que je ne leur laissais pas le choix."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "J'espère."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "On peut pas se louper sur une cargaison pareille."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Vous m'excusez."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "J'ai du travail."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "SYBILLE DELORME",
+      "line": "OK."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "SYBILLE DELORME",
+      "line": "Je vous tiens au courant."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Bonjour, Je peux vous renseigner ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Euh..."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Oui."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Je... je cherche à acheter un bateau."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Vous êtes au bon endroit."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Je vois ça."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Vous avez un modèle en tête ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Une longueur approximative ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Pas du tout."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "J'y connais rien."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Je compte sur vous pour m'aider à choisir."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Avec plaisir, je suis là pour ça."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Mais il faut tout de même m'aiguiller un peu."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Ce serait pour faire plutôt des sorties à la journée, ou vous envisagez de faire le tour du monde ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Le tour du monde ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Sûrement pas !"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Moi ce que j'aime, c'est rôtir au soleil sur le pont, et faire un plouf dans la mer quand j'ai trop chaud."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Mon ancien compagnon avait un voilier, et ça me manque."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "C'est pas faux."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Vous savez naviguer, vous, j'imagine ? ..."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "J'ai beaucoup navigué quand j'étais plus jeune, mais j'ai arrêté."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Pour ce qui est de rôtir au soleil et de faire des ploufs, ma piscine me suffit."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "ALIX",
+      "line": "Vous pensez que je devrais plutôt acheter une piscine ?"
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Regardez quand même ce que je peux vous proposer..."
+    },
+    {
+      "scene_index": "1804/10",
+      "speaker": "RICHARD CONTE",
+      "line": "Il ressemblait à quoi, le bateau de votre ancien compagnon ?"
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Salut..."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "On est dans la même classe."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Je sais."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Moi, c'est Achille."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Comme le guerrier grec."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Voilà."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Mais en moins musclé."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "C'est Dan Harlow ?"
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Tu connais ?"
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Il est ouf, ce mec."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Ses vidéos quand il grimpe El Capitan en solo, c'est un truc de malade."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Moi aussi un jour je grimperai El Capitan..."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Comme lui, sans être assurée ?"
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Ben oui, c'est ça, le kif."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "La liberté totale."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Ça me ferait flipper de grimper un truc aussi haut sans sécurité."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Je te réassure moi aussi."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Je fais pas du solo tous les jours..."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Et quand j'en fais sans être assurée, c'est sur des petites hauteurs."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Comme au Garlaban, près de Marseille, tu connais ?"
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Tu sais que vous avez des bons spots de grimpe aussi dans le coin ?"
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "ACHILLE",
+      "line": "Non, j'ai jamais fait gaffe."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "J'en ai repéré deux/trois, regarde. ."
+    },
+    {
+      "scene_index": "1804/11",
+      "speaker": "SALOMÉ",
+      "line": "Celui-là, il a l'air fou."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Celui-ci, par exemple, est un excellent modèle d'initiation et de découverte, pour les débutants."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Son ergonomie à bord rend les manœuvres très faciles et la navigation complètement sécurisée : système de réglages de voiles, passwords inclinés, bonne visibilité depuis le poste de barreur, bonne abaissée..."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Je vous sens pas convaincue."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Si..."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Mais je repense à ce que vous me disiez tout à l'heure, à propos de la piscine."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Pour le même budget qu'un bateau, je devrais pouvoir me faire construire quelque chose de pas mal, non ?"
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "C'est certain."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Mais c'est pareil, il va falloir que je choisisse..."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Vous avez quoi, vous, comme modèle ?"
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "J'ai une piscine à débordement* classique, mais assez belle..."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Qui m'a effectivement coûté à peu près le prix de ce bateau."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Et vous en êtes content ?"
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Très."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "J'en profite tous les jours."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Ce qui explique cette...carrure athlétique."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Si je comprends bien, je dois renoncer à vous vendre un bateau."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Vous voulez venir chez moi ?"
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "RICHARD CONTE",
+      "line": "Pour voir ma piscine ?"
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Je ne vous dérangerai pas longtemps."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "C'est juste histoire de jeter un œil et... et de me décider."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "C'est un investissement important."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Je peux venir quand vous voulez."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Le jour et à l'heure qui vous arrange."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Je vous laisse ma carte."
+    },
+    {
+      "scene_index": "1804/12",
+      "speaker": "ALIX",
+      "line": "Appelez-moi ?"
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Noura, c'est moi."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Je voulais te dire que ouais, j'aurai dû te parler de la soirée à la maison avant..."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "J'espère que tu viendras quand même."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Ça va être cool, on sera pas très nombreux..."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Voilà, bisous."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "SABINE",
+      "line": "C'est quoi, cette histoire de soirée ?"
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "HUGO",
+      "line": "Vous serez combien exactement ?"
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "SABINE",
+      "line": "Et en plus il se fout de nous."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "HUGO",
+      "line": "Il fait même pas l'effort de trouver un bobard qui tienne la route."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "SABINE",
+      "line": "Je sais pas ce qui est le plus décevant."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "OK, c'est vrai."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "J'ai invité des potes à venir à la maison pendant que vous serez à Avignon."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "HUGO",
+      "line": "Donc on avait raison : tu fais bien une soirée."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "C'est pas vraiment une soirée..."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Mais plutôt un dîner en petit comité."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "SABINE",
+      "line": "Tu crois qu'on va tomber dans le panneau avec tes éléments de langage ?"
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Allez..."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "La dernière fois que j'ai fait une soirée ici, ça s'est bien passé."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Ben là ça sera pareil."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Vous pouvez me faire confiance."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "SABINE",
+      "line": "Moi, ça me pose pas de problème."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "SABINE",
+      "line": "Du moment que vous rangez tout votre bordel avant qu'on arrive."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "HUGO",
+      "line": "Et moi, je veux que tu respectes la règle de trois : pas d'alcool, pas de drogue, et tout le monde est parti avant minuit."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Comme Cendrillon, sinon elle se transforme en courgette."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "HUGO",
+      "line": "C'est en citrouille, Pablo..."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "HUGO",
+      "line": "Rassure-moi, tu sais à quoi ça ressemble comme légume ?"
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Je déconne."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Pas de problème, tout sera nickel quand vous rentrerez."
+    },
+    {
+      "scene_index": "1804/13",
+      "speaker": "PABLO",
+      "line": "Vous saurez même pas que mes potes sont passés."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "ENRIC",
+      "line": "Tiens, tu peux apporter ça à Nicolas ?"
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "ENRIC",
+      "line": "Je dois passer à la compta apporter des bons de commande."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "LUCAS",
+      "line": "Je peux les déposer pour vous, si vous voulez."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "ENRIC",
+      "line": "Ah ben oui, je veux bien."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "ENRIC",
+      "line": "Merci beaucoup Lucas."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "LUCAS",
+      "line": "Justement, je vais me prendre un café au passage."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "LUCAS",
+      "line": "Je vous en rapporte un ?"
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "ENRIC",
+      "line": "Ah ben oui, avec plaisir."
+    },
+    {
+      "scene_index": "1804/14",
+      "speaker": "ENRIC",
+      "line": "Merci Lucas."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Ta journée s’est bien passée ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Ça va, Charlotte ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Je rêvassais, mais tout va bien."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Madame Becker m'a dit que vous aviez accueilli une nouvelle élève aujourd'hui."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Salomé, c'est ça ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Et alors, elle est sympa ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "J'en sais rien."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Elle a l'air un peu spéciale, comme neuf."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Elle est peut-être timide."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "C'est pas facile d'arriver en cours d'année."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Dis, papa, y'a Pablo qui organise un dîner chez lui dans la semaine."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Je pourrai y aller ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Ses parents seront là ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Non, ils seront à un concert."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Mais c'est juste histoire de profiter de la maison en se matant un film entre potes."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Je comprends pas : vous allez dîner ou vous allez regarder un film ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Ben un peu des deux..."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Alors, c'est bon ?"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "OK."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Mais à 23 heures, tu es rentrée."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Allez, papa..."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Laisse-moi au moins jusqu'à minuit."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Je veux pas être la première à partir."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "OK pour minuit."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "Super, merci !"
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Mais ça reste exceptionnel..."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "SOHAN",
+      "line": "Et il faut aussi que ça soit validé par ta mère."
+    },
+    {
+      "scene_index": "1804/15",
+      "speaker": "CHARLOTTE",
+      "line": "On est d'accord."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Bonsoir Laurent."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "J'ai des bons de commande de la part d'Enric."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Ah oui..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Posez-les sur mon bureau, merci."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Au fait : vous savez qu'on a une connaissance en commun ?"
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Ah oui."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Qui ça ?"
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Nathalie Lopez."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Nathalie..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Comment vous la connaissez ?"
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "C'est la mère de ma copine, Emma."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "D'accord..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Et comment elle va, Nathalie ?"
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "C'est un peu compliqué pour elle en ce moment."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Elle a du mal à trouver du boulot..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Pardon, je vous embête pas plus longtemps..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Oh non... je venais tout juste de les classer."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Non, non il faut que ce soit dans un certain ordre..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Je suis désolé..."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "LUCAS",
+      "line": "Je... je vous laisse alors."
+    },
+    {
+      "scene_index": "1804/16",
+      "speaker": "BERTIER",
+      "line": "Oui, oui."
+    }
+  ],
+  "speakers": [
+    "ACHILLE",
+    "ALEXIS",
+    "ALIX",
+    "BERTIER",
+    "CHARLOTTE",
+    "DIMITRI",
+    "EMMA",
+    "ENRIC",
+    "HUGO",
+    "LUCAS",
+    "NOURA",
+    "PABLO",
+    "RICHARD CONTE",
+    "SABINE",
+    "SALOMÉ",
+    "SOHAN",
+    "SYBILLE DELORME",
+    "ULYSSE"
+  ]
+}
