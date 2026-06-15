@@ -4,7 +4,7 @@ Ce projet consiste à apporter une assistance à la correction des speakers dans
 
 Corpus : scénarios et transcription
 
-Schéma : [!../img/chaine_import_scenario.png]
+![Chaine de traitement globale](../img/chaine_import_scenario.png)
 
 Etapes : 
 01) OCR
