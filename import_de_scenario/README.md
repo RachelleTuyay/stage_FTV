@@ -1,18 +1,12 @@
 # Import de scénario
 
-Ce projet consiste à apporter une assistance à la correction des speakers dans le fichier de transcription écrite d'une émission.
+Les outils de transcriptions automatiques sont aujourd’hui largement utilisés dans de nombreux domaines pour convertir un contenu audio en texte, notamment dans le secteur de l’audiovisuel. Ces transcriptions constituent une ressource précieuse pour la création de sous-titres. A partir de la transcription d’un programme, les sous-titreurs peuvent en effet élaborer les sous-titres destinés à la diffusion. Malgré les progrès réalisés dans ce domaine, les systèmes de transcription automatique restent imparfaits et génèrent encore de nombreuses erreurs.
 
-Corpus : scénarios et transcription
+L’objectif est de fournir aux sous-titreurs une version préalablement corrigée, leur permettant de réduire le temps consacré aux tâches de relectures et de correction.
+
+Corpus/données : scénarios validés et transcriptions automatiques correspondantes
 
 ![Chaine de traitement globale](../img/chaine_import_scenario.png)
-
-Etapes : 
-01) OCR
-02) Construction d'un fichier de référence
-03) Pré-traitements
-04) Comparaison de similarité (phrase par phrase) --> tâche d'alignement
-05) Classification par seuil (prédéfinie)
-06) Correction des speakers + indexation
 
 
 ------
