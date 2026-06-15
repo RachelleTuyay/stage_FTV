@@ -5,12 +5,9 @@ import json
 import os
 import re
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
-
+### CONFIGURATION
 SCRIPT_DIR         = "/home/rachou/Documents/stage/USGS 1804"
-MODEL_SAVE_DIR_STD = os.path.join(SCRIPT_DIR, "modele_normal")
+MODEL_SAVE_DIR_STD = os.path.join(SCRIPT_DIR, "model")
 BASE_MODEL         = "sentence-transformers/static-similarity-mrl-multilingual-v1"
 SCORE_THRESHOLD    = 0.65
 
@@ -43,10 +40,7 @@ def normaliser_phrase(sent):
     sent = re.sub(r'([.!?,;:])([^\s])', r'\1 \2', sent) # Espace après la ponctuation si manquant
     return sent
 
-# ============================================================
 # SAUVEGARDE DU MODÈLE DE BASE (sans entraînement)
-# ============================================================
-
 def save_model(base_model_name, save_dir):
     print(f"\n{'='*60}")
     print("SAUVEGARDE du modèle de base (sans entraînement)")
@@ -57,9 +51,7 @@ def save_model(base_model_name, save_dir):
     return model
 
 
-# ============================================================
-# ALIGNEMENT
-# ============================================================
+### ALIGNEMENT
 
 def run_alignment(model, gold_embeddings, gold_lines, gold_speakers,transcript_keys, transcript_lines, transcript_items,n_gold, n_transcript):
     results            = []
@@ -128,9 +120,7 @@ def run_alignment(model, gold_embeddings, gold_lines, gold_speakers,transcript_k
     }
 
 
-# ============================================================
-# SAUVEGARDE DES RÉSULTATS
-# ============================================================
+### SAUVEGARDE DES RÉSULTATS
 
 def save_results(model_name, results, corrections, transcript_corrige, metrics, n_gold, n_transcript):
     safe_name   = model_name.replace("/", "_").replace(" ", "_")
@@ -175,9 +165,8 @@ def save_results(model_name, results, corrections, transcript_corrige, metrics, 
     print(f"  → {output_json}")
 
 
-# ============================================================
-# MAIN
-# ============================================================
+### MAIN
+
 if __name__ == "__main__" :
     corpus_gold       = load_json("transcription_gold.json") #fichier de référence
     corpus_transcript = load_json("data/clean/transcription_USGS_clean.json")
@@ -191,7 +180,7 @@ if __name__ == "__main__" :
 
     transcript_items = corpus_transcript["repliques"]
     transcript_keys  = list(transcript_items.keys())
-    transcript_lines = [transcript_items[k]["content"] for k in transcript_keys]
+    transcript_lines = [transcript_items[k]["line"] for k in transcript_keys]
 
     moyenne = moy_phrases_par_scene(gold_repliques)
     WINDOW_SIZE = int(round(moyenne))
