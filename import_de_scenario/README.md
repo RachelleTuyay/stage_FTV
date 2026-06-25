@@ -10,7 +10,7 @@ Corpus/données : scénarios validés et transcriptions automatiques corresponda
 
 
 ------
-Dépendances principales ![requirements](requirements.txt): 
+Dépendances principales ![here requirements](requirements.txt): 
 - Streamlit
 - Transformers
 - Sentence Transformers
