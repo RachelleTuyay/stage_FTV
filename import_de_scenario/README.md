@@ -10,5 +10,10 @@ Corpus/données : scénarios validés et transcriptions automatiques corresponda
 
 
 ------
-
-Ceci est un extrait, et non l'entièreté du projet. 
+Dépendances principales ![requirements](requirements.txt): 
+- Streamlit
+- Transformers
+- Sentence Transformers
+- Torch
+- Stanza
+- Mistral AI
