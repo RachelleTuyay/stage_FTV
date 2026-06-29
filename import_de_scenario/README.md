@@ -15,5 +15,7 @@ Dépendances principales : ![here](requirements.txt)
 - Transformers
 - Sentence Transformers
 - Torch
-- Stanza
+- Re
 - Mistral AI
+- pandas
+- numpy
